@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 # spec/caesar_spec.rb
-require './lib/caesar_cipher.rb'
+require './lib/Salad.rb'
 
 describe CaesarCipher do
   subject { CaesarCipher.new }
